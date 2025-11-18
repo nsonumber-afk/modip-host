@@ -1,9 +1,2 @@
-# ádasd
-ChienTruongNinja.com:157.66.81.122:14444:0:0
-# aa
-test2:áda:sádasd:0:0
 # Chiến Trường Ninja
-# Chiến Thần Ninja
-# Localhost
-ádas:ádasdasda:ádasdasd:0:0
-sadasd:ádasd:ádasda:0:0
+ChienTruongNinja.com:157.66.81.122:14444:0:0
