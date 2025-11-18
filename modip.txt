@@ -1,4 +1,5 @@
 # ----- DANH SACH MAY CHU -----
+tes5:101:14443:0:0
 # Chiến Thần Ninja
 Chienthanninja.com:157.10.198.192:14444:0:0
 # Chiến Trường Ninja
