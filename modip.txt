@@ -1,8 +1,7 @@
 # ----- DANH SACH MAY CHU -----
-tes5:101:14443:0:0
-# Chiến Thần Ninja
-Chienthanninja.com:157.10.198.192:14444:0:0
 # Chiến Trường Ninja
 Chientruongninja.com:157.66.81.122:14444:0:0
+# Chiến Thần Ninja
+Chienthanninja.com:157.10.198.192:14444:0:0
 # Localhost
-test2:127.0.0.1:14443:0:0
+Localhost:127.0.0.1:14444:0:0
