@@ -2,7 +2,5 @@
 ChienThanNinja.com:157.10.198.192:14444:0:0
 # Chiến Trường Ninja
 ChienTruongNinja.com:157.66.81.122:14444:0:0
-# 1111
-111:111:111:0:0
 # Chiến Thần Ninja
 ChienThanNinja.com:157.10.198.192:14444:0:0
