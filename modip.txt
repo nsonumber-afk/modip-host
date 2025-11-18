@@ -1,5 +1,4 @@
-# ----- DANH SACH MAY CHU ----- 
-
+# ----- DANH SACH MAY CHU -----
 # Chiến Thần Ninja
 Chienthanninja.com:157.10.198.192:14444:0:0
 
