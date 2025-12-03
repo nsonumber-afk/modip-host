@@ -3,4 +3,4 @@ ChienTruongNinja.com:157.66.81.122:14444:0:0
 # Chiến Thần Ninja
 CTNS:157.10.198.192:14444:0:0
 # sever NsoYami
-NsoYami:103.162.20.219:14443:0:0
+Trung:14.225.203.71:14443:0:0
