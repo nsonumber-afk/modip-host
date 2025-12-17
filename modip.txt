@@ -5,4 +5,4 @@ CTNS:157.10.198.192:14444:0:0
 # sever NsoYami
 NsoYami:103.162.20.219:14444:0:0
 # Nso Xin Chao
-Nso Xin Chao:160.191.243.214:14444:0:0
+Nso Xin Chao:180.93.144.24:14444:0:0
