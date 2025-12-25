@@ -1,5 +1,5 @@
 # Chiến Trường Ninja
-ChienTruongNso1:157.66.81.12:14444:0:0
+ChienTruongNso:157.66.81.122:14444:0:0
 # Chiến Thần Ninja
 LD NSO:160.30.158.62:14444:0:0
 CTNS:157.10.198.192:14444:0:0
