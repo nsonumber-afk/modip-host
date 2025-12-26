@@ -7,3 +7,5 @@ CTNS:157.10.198.192:14444:0:0
 NsoYami:103.162.20.219:14444:0:0
 # Nso Xin Chao
 Nso Xin Chao:180.93.144.24:14444:0:0
+# sdad | HSD: 2025-07-26 13:59
+sdad:asdasd:asdada:0:0
