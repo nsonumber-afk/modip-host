@@ -8,9 +8,3 @@ CTNS:157.10.198.192:14444:0:0
 NsoYami:103.162.20.219:14444:0:0
 # Sáng | HSD: 2026-02-27 14:10
 Nso Xin Chao:180.93.144.24:14444:0:0
-
-#  - Khách: Duy Tiến | HSD: 2026-01-31 21:48
-xádA:ÁDASD:ÁDAS:0:0#  - Khách: Duy Tiến | HSD: 2026-01-31 21:50
-ẮDAS:ADSDASDA:ÁDASD:0:0
-#  - Khách: Duy Tiến | HSD: 2026-01-31 22:06
-Tạo Phiên Bản Apk 218 +16:103.167.92.166:3389:0:0
