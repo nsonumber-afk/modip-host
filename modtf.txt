@@ -6,3 +6,5 @@ LD NSO:160.30.158.62:14444:0:0
 NINJAFREE:163.223.13.192:14447:0:0
 # Cương | HSD: 2026-01-31 20:18
 ĐẢO QUỐC:dm1.daoquocninja.com:14444:0:0
+# Cương | HSD: 2026-01-02 22:20
+ĐẢO QUỐC:dm1.daoquocninja.com:14499:0:0
