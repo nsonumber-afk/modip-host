@@ -6,5 +6,5 @@ LD NSO:160.30.158.62:14444:0:0
 NINJAFREE:163.223.13.192:14447:0:0
 # Cương | HSD: 2026-01-31 20:18
 ĐẢO QUỐC:dm1.daoquocninja.com:14444:0:0
-#  - Khách: Duy Tiến | HSD: 2026-02-02 09:45
+# - Khách: Duy Tiến | HSD: 2026-04-01 09:45
 Nso rose:160.30.112.40:14444:0:0
