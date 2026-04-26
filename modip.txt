@@ -16,3 +16,5 @@ HẮC ẢNH:157.66.80.203:14444:0:0
 Ninjasunv2:103.178.235.204:14444:0:0
 # dat nsoninja | HSD: 2026-04-21 22:00
 NSO NINJA:sv.nsoninja.com:14444:0:0
+#  - Khách: Cừnn | HSD: 2026-07-26 11:14
+Locahost:127.0.0.1:14444:0:0
