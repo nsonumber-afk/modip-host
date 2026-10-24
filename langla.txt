@@ -7,4 +7,4 @@ Hokage s2 1
 103.129.126.229:serverlist.txt:6868
 
 LangMua1
-103.229.52.175:serverlist.txt:6868
+langmua.com:serverlist.txt:6868
