@@ -1,1 +1,10 @@
+# Danh sách máy chủ
 
+Hokage
+langlahokage.com:serverlist.txt:6868
+
+Hokage s2
+103.129.126.229:serverlist2.txt:6867
+
+LangMua
+103.229.52.175:serverlist.txt:6868
