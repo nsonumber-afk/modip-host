@@ -8,3 +8,6 @@ Hokage s2 1
 
 LangMua1
 langmua.com:serverlist.txt
+
+làng Sương Mù
+langsuongmu.com/serverlist.txt
