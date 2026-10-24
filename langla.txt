@@ -1,10 +1,10 @@
 # Danh sách máy chủ
 
 Hokage1
-langlahokage.com:serverlist.txt:6868
+langlahokage.com:serverlist.txt
 
 Hokage s2 1
-103.129.126.229:serverlist.txt:6868
+103.129.126.229:serverlist.txt
 
 LangMua1
-langmua.com:serverlist.txt:6868
+langmua.com:serverlist.txt
