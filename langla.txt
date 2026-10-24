@@ -10,4 +10,4 @@ LangMua1
 langmua.com:serverlist.txt
 
 làng Sương Mù
-langsuongmu.com/serverlist.txt
+langsuongmu.com:serverlist.txt
